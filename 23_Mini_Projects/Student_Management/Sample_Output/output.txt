@@ -1,0 +1,35 @@
+╔══════════════════════════════════════════════╗
+║        STUDENT MANAGEMENT SYSTEM             ║
+║           C Programming Project              ║
+╠══════════════════════════════════════════════╣
+║  Active Records: 5                           ║
+╠══════════════════════════════════════════════╣
+║  1. Add Student                              ║
+║  2. View All Students                        ║
+║  3. Search Student (by Roll)                 ║
+║  4. Update Student                           ║
+║  5. Delete Student                           ║
+║  6. Sort & View                              ║
+║  7. Statistics                               ║
+║  0. Exit                                     ║
+╚══════════════════════════════════════════════╝
+
+--- VIEW ALL ---
+Roll   Name                      Branch     Sem   GPA    Grade
+────   ─────────────────────────────────────────────────────────
+101    Alice Johnson             CSE        4     9.20    O
+102    Bob Kumar                 ECE        3     8.50    A
+103    Carol Singh               CSE        5     9.80    O
+104    Dave Patel                ME         2     7.90    B
+105    Eve Sharma                EEE        4     8.10    A
+
+--- STATISTICS ---
+Total Students : 5
+Average GPA    : 8.70
+Highest GPA    : 9.80
+Lowest GPA     : 7.90
+
+Grade Distribution:
+O (≥9.0)     :   2 ██
+A (≥8.0)     :   2 ██
+B (≥7.0)     :   1 █
