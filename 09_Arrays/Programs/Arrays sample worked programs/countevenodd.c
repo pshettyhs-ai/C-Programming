@@ -1,0 +1,30 @@
+//Program to count even and odd numbers in an array
+//Author : Pavan Shetty H S
+
+#include<stdio.h>
+int main()
+{
+    int i,a[10];
+    int even=0,odd=0;
+    printf("\n Enter the array elements:");
+    for(i=0;i<10;i++)//no need but for easy execution
+    {
+        scanf("%d",&a[i]);
+        if(a[i]%2==0)
+            even++;
+        else
+            odd++;
+    }
+    printf("Total even numbers are:%d",even);
+    printf("\nTotal odd numbers are:%d",odd);
+return 0;
+    
+}
+
+
+/*
+output:
+Enter the array elements:1 2 3 4 5 6 7 8 9 0
+Total even numbers are:5
+Total odd numbers are:5
+*/
