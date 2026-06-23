@@ -4,10 +4,12 @@
 
 [![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/pshettyhs-ai/C-Programming?style=for-the-badge&logo=github)](https://github.com/ pshettyhs-ai /C-Programming/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/ pshettyhs-ai /C-Programming?style=for-the-badge&logo=github)](https://github.com/ pshettyhs-ai /C-Programming/network)
+[![GitHub Stars](https://img.shields.io/github/stars/pshettyhs-ai/C-Programming?style=for-the-badge&logo=github)]
 [![Author](https://img.shields.io/badge/Author-Pavan%20Shetty%20H%20S-blueviolet?style=for-the-badge)](https://github.com/ pshettyhs-ai)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge)](CONTRIBUTING.md)
+(https://github.com/ pshettyhs-ai /C-Programming/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/ pshettyhs-ai /C-Programming?style=for-the-badge&logo=github)]
+(https://github.com/ pshettyhs-ai /C-Programming/network)
 
 **Created and maintained by [Pavan Shetty H S](https://github.com/pshettyhs-ai)**
 
@@ -371,7 +373,8 @@ You are free to use, copy, and share it for personal learning or education. See 
 
 I built this repository as part of my own learning journey. Everything here is written in my own words, tested by me, and shared freely for any student who finds it useful.
 
-[![GitHub](https://img.shields.io/badge/GitHub- pshettyhs-ai -black?style=flat-square&logo=github)](https://github.com/ pshettyhs-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-pshettyhs-ai-black?style=flat-square&logo=github)]
+([https://github.com/pshettyhs-ai](https://github.com/pshettyhs-ai))
 
 ---
 
