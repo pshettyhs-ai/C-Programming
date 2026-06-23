@@ -7,8 +7,9 @@
 [![GitHub Stars](https://img.shields.io/github/stars/pshettyhs-ai/C-Programming?style=for-the-badge&logo=github)]
 [![Author](https://img.shields.io/badge/Author-Pavan%20Shetty%20H%20S-blueviolet?style=for-the-badge)]
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge)](CONTRIBUTING.md)
-([https://github.com/pshettyhs-ai/C-Programming/stargazers](https://github.com/pshettyhs-ai/C-Programming/stargazers))
 [![GitHub Forks](https://img.shields.io/github/forks/pshettyhs-ai/C-Programming?style=for-the-badge&logo=github)]
+
+([https://github.com/pshettyhs-ai/C-Programming/stargazers](https://github.com/pshettyhs-ai/C-Programming/stargazers))
 
 **Created and maintained by [Pavan Shetty H S](https://github.com/pshettyhs-ai)**
 
