@@ -9,8 +9,6 @@
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge)](CONTRIBUTING.md)
 [![GitHub Forks](https://img.shields.io/github/forks/pshettyhs-ai/C-Programming?style=for-the-badge&logo=github)]
 
-([https://github.com/pshettyhs-ai/C-Programming/stargazers](https://github.com/pshettyhs-ai/C-Programming/stargazers))
-
 **Created and maintained by [Pavan Shetty H S](https://github.com/pshettyhs-ai)**
 
 *A hands-on, beginner-friendly, placement-ready C programming resource — built the way I wished someone had explained it to me.*
@@ -373,7 +371,6 @@ You are free to use, copy, and share it for personal learning or education. See 
 
 I built this repository as part of my own learning journey. Everything here is written in my own words, tested by me, and shared freely for any student who finds it useful.
 
-[![GitHub](https://img.shields.io/badge/GitHub-pshettyhs-ai-black?style=flat-square&logo=github)]
 ([https://github.com/pshettyhs-ai](https://github.com/pshettyhs-ai))
 
 ---
