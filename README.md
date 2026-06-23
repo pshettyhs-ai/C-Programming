@@ -5,11 +5,10 @@
 [![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/pshettyhs-ai/C-Programming?style=for-the-badge&logo=github)]
-[![Author](https://img.shields.io/badge/Author-Pavan%20Shetty%20H%20S-blueviolet?style=for-the-badge)](https://github.com/ pshettyhs-ai)
+[![Author](https://img.shields.io/badge/Author-Pavan%20Shetty%20H%20S-blueviolet?style=for-the-badge)]
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge)](CONTRIBUTING.md)
-(https://github.com/ pshettyhs-ai /C-Programming/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/ pshettyhs-ai /C-Programming?style=for-the-badge&logo=github)]
-(https://github.com/ pshettyhs-ai /C-Programming/network)
+([https://github.com/pshettyhs-ai/C-Programming/stargazers](https://github.com/pshettyhs-ai/C-Programming/stargazers))
+[![GitHub Forks](https://img.shields.io/github/forks/pshettyhs-ai/C-Programming?style=for-the-badge&logo=github)]
 
 **Created and maintained by [Pavan Shetty H S](https://github.com/pshettyhs-ai)**
 
